@@ -73,6 +73,11 @@ local emotes = {
     { name = "V Pose - Tommy Hilfiger", id = "10214319518" },
     { name = "Floor Rock Freeze - Tommy Hilfiger", id = "10214314957" },
     { name = "T", id = "10714347453" },
+    { name = "Tantrum", id = "10714340558" },
+    { name = "Hips Poppin' - Zara Larsson", id = "10714340558" },
+    { name = "It Aint My Faul' - Zara Larsson", id = "10714374267" },
+    { name = "Side to Side", id = "10714366910" },
+    { name = "Get Out", id = "10714345862" },
     { name = "Dorky Dance", id = "10714069471" },
 }
 
